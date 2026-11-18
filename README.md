@@ -13,8 +13,6 @@
 
 <br/><br/>
 
-🐾 **Want Sky Puff to follow your mouse?** [Open the live version](https://kara16125-ui.github.io/mouse-puff.html)
-
 </div>
 
 ---
