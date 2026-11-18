@@ -58,21 +58,6 @@ I'm passionate about software development, modern web technologies, and building
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kara16125-ui&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kara16125-ui&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=kara16125-ui&theme=radical&hide_border=true" />
-
-</div>
-
----
-
 ## 🟩 Contribution Activity
 
 <div align="center">
