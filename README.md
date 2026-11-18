@@ -68,17 +68,6 @@ I'm passionate about software development, modern web technologies, and building
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/kara16125-ui">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kara16125-ui&repo=MakaraShop&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
